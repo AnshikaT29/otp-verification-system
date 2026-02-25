@@ -6,20 +6,20 @@ This project is a simple OTP ( One-Time-Password) authentication system develope
 
 ##Features
 
-Random OTP generation using python
-user input handling
-Conditional verification logic
-interactive command-line interface
+*Random OTP generation using python
+*user input handling
+*Conditional verification logic
+*interactive command-line interface
 
 ##Technologies Used
 
-python
-Random Module
-Conditional statements
+*python
+*Random Module
+*Conditional statements
 
 ##How it works
 
-Generates a random 4-digit OTP
-Prompts the user to enter the OTP
-validates the input against the generated otp
-Displays sucess or failure message
+*Generates a random 4-digit OTP
+*Prompts the user to enter the OTP
+*validates the input against the generated otp
+*Displays sucess or failure message
